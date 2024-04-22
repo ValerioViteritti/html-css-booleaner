@@ -5,6 +5,7 @@
 }
 body{
     margin-left: 10px;
+    margin-right: 10px;
 }
 
 /* Regole dell'header */
@@ -24,15 +25,18 @@ header{
 }
 
 .testa img{
-    width: 20%;
-   
-
+    width: 10%;
 }
 
 /* Regole del main */
 
 .margin-bot{
     margin-bottom: 20px;
+}
+
+main h1{
+    font-size: 50px;
+
 }
 
 
@@ -77,13 +81,7 @@ ul{
 
 }
 
-/* Pie di pagina */
-
-footer{
-    /* width: 300px;
-    height: auto; */
-}
-
+/* Regole del Pie di pagina */
 
 .foto-pie-a{
     margin-top: 15px;
