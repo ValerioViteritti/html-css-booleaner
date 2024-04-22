@@ -55,14 +55,18 @@ main h1{
     height: 480px;
 }
 
+.img-space span{
+    font-size: 15px;
+}
+
 
 
 ul{
     padding-left: 15px;
 }
 
-.casella-a{
-
+.table{
+    height: 100%px;
 }
 
 .thead{
@@ -71,29 +75,43 @@ ul{
 
 }
 
-.casella-a{
+.linea-a{
     width: 24%;
     display: inline-block;
     /* padding-bottom: 3%; */
     /* margin-bottom: 30px; */
+    
 
 }
-.casella-b{
+.linea-b{
     width: 24%;
     display: inline-block;
     
 }
-.casella-c{
+.linea-c{
     width: 50%;
-    display: inline-block;
-    
+    display: inline-block;    
 }
+
+
+
+
+
+
+
+
+
 .tbody-a{
     background-color: #70a8e8;
 
 }
 
 /* Regole del Pie di pagina */
+
+footer span{
+    color: #979797;
+    font-size: 17px;
+}
 
 .foto-pie-a{
     margin-top: 15px;
@@ -117,10 +135,10 @@ ul{
 }
 
 .text-on-image{
-    margin-right: 30px;
+    margin-left: 10px;
     font-size: 20px;
-    line-height: 20px;
-    text-align: center;
+    line-height: 40px;
+    /* text-align: center; */
     color: #FFFFFF;
     
 }
