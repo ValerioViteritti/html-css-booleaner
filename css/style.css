@@ -59,45 +59,30 @@ main h1{
     font-size: 15px;
 }
 
-
-
 ul{
     padding-left: 15px;
-}
-
-.table{
-    height: 100%px;
 }
 
 .thead{
     background-color: #365eb6;
     color: white;
-
 }
 
 .linea-a{
     width: 24%;
     display: inline-block;
-    /* padding-bottom: 3%; */
-    /* margin-bottom: 30px; */
-    
-
 }
 .linea-b{
     width: 24%;
     display: inline-block;
-    
 }
 .linea-c{
     width: 50%;
-    display: inline-block;    
+    display: inline-block;   
 }
-
-
-
-
-
-
+.centra{
+    transform: translate(-0%, -100%);
+}
 
 
 
