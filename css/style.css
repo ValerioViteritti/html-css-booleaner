@@ -9,6 +9,10 @@ body{
 
 /* Regole dell'header */
 
+header{
+    margin-bottom: 20px;
+}
+
 .testa {
     background-image: url(/img/pattern.png);
     background-color: #4ea0ff;
@@ -22,6 +26,13 @@ body{
    
 
 }
+
+/* Regole del main */
+
+.margin-bot{
+    margin-bottom: 20px;
+}
+
 
 .text-date{
     color: #979797;
@@ -63,5 +74,25 @@ ul{
     background-color: #70a8e8;
 
 }
+
+/* Pie di pagina */
+
+footer{
+    width: 300px;
+    height: auto;
+}
+
+.foto-pie-a{
+    background-image: url(/img/monitor.jpg);
+    width: 100px;
+
+}
+
+.foto-pie-b{
+    background-image: url(/img/graph.jpg);
+    width: 100px;
+    
+}
+
 
 
