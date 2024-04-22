@@ -1,0 +1,67 @@
+/* Regole Generali */
+* {
+    padding: 0;
+    margin: 0;
+}
+body{
+    margin-left: 10px;
+}
+
+/* Regole dell'header */
+
+.testa {
+    background-image: url(/img/pattern.png);
+    background-color: #4ea0ff;
+    background-size: cover;
+    height: 200px;
+    
+}
+
+.testa img{
+    width: 20%;
+   
+
+}
+
+.text-date{
+    color: #979797;
+}
+
+#text-color{
+    color: #3fb5e8;
+}
+ul{
+    padding-left: 15px;
+}
+
+.casella-a{
+
+}
+
+.thead{
+    background-color: #365eb6;
+    color: white;
+
+}
+
+.casella-a{
+    width: 24%;
+    display: inline-block;
+
+}
+.casella-b{
+    width: 24%;
+    display: inline-block;
+    
+}
+.casella-c{
+    width: 50%;
+    display: inline-block;
+    
+}
+.tbody-a{
+    background-color: #70a8e8;
+
+}
+
+
